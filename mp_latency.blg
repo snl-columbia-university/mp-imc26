@@ -1,0 +1,185 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: mp_latency.aux
+The style file: ACM-Reference-Format.bst.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: mybib.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty year in akella-congestion
+Warning--empty publisher in akella-congestion
+Warning--empty address in akella-congestion
+Warning--page numbers missing in both pages and numpages fields in akella-congestion
+Warning--empty year in akella-multihoming-nsdi-04
+Warning--empty publisher in akella-multihoming-nsdi-04
+Warning--empty address in akella-multihoming-nsdi-04
+Warning--page numbers missing in both pages and numpages fields in akella-multihoming-nsdi-04
+Warning--empty year in todd-cloud-latency
+Warning--empty publisher in todd-cloud-latency
+Warning--empty address in todd-cloud-latency
+Warning--page numbers missing in both pages and numpages fields in todd-cloud-latency
+Warning--empty year in tango
+Warning--empty publisher in tango
+Warning--empty address in tango
+Warning--page numbers missing in both pages and numpages fields in tango
+Warning--empty year in calder2015analyzing
+Warning--empty publisher in calder2015analyzing
+Warning--empty address in calder2015analyzing
+Warning--page numbers missing in both pages and numpages fields in calder2015analyzing
+Warning--empty year in mpquic-conext
+Warning--empty publisher in mpquic-conext
+Warning--empty address in mpquic-conext
+Warning--page numbers missing in both pages and numpages fields in mpquic-conext
+Warning--empty publisher in dhamdhere2018inferring
+Warning--empty address in dhamdhere2018inferring
+Warning--empty year in virtue-gentle-aggression
+Warning--empty publisher in virtue-gentle-aggression
+Warning--empty address in virtue-gentle-aggression
+Warning--page numbers missing in both pages and numpages fields in virtue-gentle-aggression
+Warning--empty year in remp
+Warning--empty publisher in remp
+Warning--empty address in remp
+Warning--page numbers missing in both pages and numpages fields in remp
+Warning--empty publisher in gao25xrgo
+Warning--empty address in gao25xrgo
+Warning--page numbers missing in both pages and numpages fields in gao25xrgo
+Warning--empty year in saving-private-wan
+Warning--empty publisher in saving-private-wan
+Warning--empty address in saving-private-wan
+Warning--page numbers missing in both pages and numpages fields in saving-private-wan
+Warning--empty year in tom-anycast
+Warning--empty publisher in tom-anycast
+Warning--empty address in tom-anycast
+Warning--page numbers missing in both pages and numpages fields in tom-anycast
+Warning--empty year in painter
+Warning--empty publisher in painter
+Warning--empty address in painter
+Warning--page numbers missing in both pages and numpages fields in painter
+Warning--empty year in scion_deployment_conext
+Warning--empty publisher in scion_deployment_conext
+Warning--empty address in scion_deployment_conext
+Warning--page numbers missing in both pages and numpages fields in scion_deployment_conext
+Warning--empty year in whyhigh
+Warning--empty publisher in whyhigh
+Warning--empty address in whyhigh
+Warning--page numbers missing in both pages and numpages fields in whyhigh
+Warning--empty year in fastly-egress
+Warning--empty publisher in fastly-egress
+Warning--empty address in fastly-egress
+Warning--page numbers missing in both pages and numpages fields in fastly-egress
+Warning--empty year in livenet
+Warning--empty publisher in livenet
+Warning--empty address in livenet
+Warning--page numbers missing in both pages and numpages fields in livenet
+Warning--empty year in urllc-close-reality-distant-goal
+Warning--empty publisher in urllc-close-reality-distant-goal
+Warning--empty address in urllc-close-reality-distant-goal
+Warning--page numbers missing in both pages and numpages fields in urllc-close-reality-distant-goal
+Warning--empty year in latency-shears
+Warning--empty publisher in latency-shears
+Warning--empty address in latency-shears
+Warning--page numbers missing in both pages and numpages fields in latency-shears
+Warning--empty address in loqman-apnic
+Warning--empty year in schlinker19peering
+Warning--empty publisher in schlinker19peering
+Warning--empty address in schlinker19peering
+Warning--page numbers missing in both pages and numpages fields in schlinker19peering
+Warning--empty year in brandon-facebook-imc
+Warning--empty publisher in brandon-facebook-imc
+Warning--empty address in brandon-facebook-imc
+Warning--page numbers missing in both pages and numpages fields in brandon-facebook-imc
+Warning--empty year in edge-fabric
+Warning--empty publisher in edge-fabric
+Warning--empty address in edge-fabric
+Warning--page numbers missing in both pages and numpages fields in edge-fabric
+Warning--empty year in dchannel
+Warning--empty publisher in dchannel
+Warning--empty address in dchannel
+Warning--page numbers missing in both pages and numpages fields in dchannel
+Warning--empty year in silverpeak-loss-info
+Warning--empty year in cascara
+Warning--empty publisher in cascara
+Warning--empty address in cascara
+Warning--page numbers missing in both pages and numpages fields in cascara
+Warning--empty publisher in vr-jitter-test
+Warning--empty address in vr-jitter-test
+Warning--page numbers missing in both pages and numpages fields in vr-jitter-test
+Warning--empty publisher in vu2021supporting
+Warning--empty address in vu2021supporting
+Warning--empty publisher in brighten-conext2013
+Warning--empty address in brighten-conext2013
+Warning--empty year in twinstar
+Warning--empty publisher in twinstar
+Warning--empty address in twinstar
+Warning--page numbers missing in both pages and numpages fields in twinstar
+Warning--empty year in miro
+Warning--empty publisher in miro
+Warning--empty address in miro
+Warning--page numbers missing in both pages and numpages fields in miro
+Warning--empty year in espresso
+Warning--empty publisher in espresso
+Warning--empty address in espresso
+Warning--page numbers missing in both pages and numpages fields in espresso
+Warning--empty year in anyopt
+Warning--empty publisher in anyopt
+Warning--empty address in anyopt
+Warning--page numbers missing in both pages and numpages fields in anyopt
+Warning--empty year in entact
+Warning--empty publisher in entact
+Warning--empty address in entact
+Warning--page numbers missing in both pages and numpages fields in entact
+Warning--empty year in alibaba-mpquic
+Warning--empty publisher in alibaba-mpquic
+Warning--empty address in alibaba-mpquic
+Warning--page numbers missing in both pages and numpages fields in alibaba-mpquic
+Warning--empty year in augur
+Warning--empty publisher in augur
+Warning--empty address in augur
+Warning--page numbers missing in both pages and numpages fields in augur
+You've used 57 entries,
+            5901 wiz_defined-function locations,
+            1574 strings with 25027 characters,
+and the built_in function-call counts, 58771 in all, are:
+= -- 5188
+> -- 3148
+< -- 0
++ -- 1040
+- -- 1076
+* -- 4717
+:= -- 7018
+add.period$ -- 254
+call.type$ -- 57
+change.case$ -- 464
+chr.to.int$ -- 52
+cite$ -- 187
+duplicate$ -- 4998
+empty$ -- 3584
+format.name$ -- 1211
+if$ -- 13050
+int.to.chr$ -- 7
+int.to.str$ -- 1
+missing$ -- 179
+newline$ -- 541
+num.names$ -- 451
+pop$ -- 2923
+preamble$ -- 1
+purify$ -- 792
+quote$ -- 0
+skip$ -- 1646
+stack$ -- 0
+substring$ -- 2684
+swap$ -- 361
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1666
+warning$ -- 130
+while$ -- 341
+width$ -- 0
+write$ -- 1004
+(There were 130 warnings)

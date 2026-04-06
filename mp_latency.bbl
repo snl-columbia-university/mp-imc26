@@ -1,0 +1,756 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{57}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{3GPP}{3GPP}{2020}]%
+        {3gpp-app-reqs}
+\bibfield{author}{\bibinfo{person}{3GPP}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{{System Architecture for the 5G System (5GS)}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://3gpp.org/ftp//Specs/archive/23_series/23.501/23501-g60.zip}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Akamai}{Akamai}{2022}]%
+        {akamai_sase}
+\bibfield{author}{\bibinfo{person}{Akamai}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{title}{{Akamai Secure Access Service Edge}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://akamai.com/resources/akamai-secure-access-service-edge-sase}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Akella, Seshan, and Shaikh}{Akella
+  et~al\mbox{.}}{[n.d.]a}]%
+        {akella-congestion}
+\bibfield{author}{\bibinfo{person}{Aditya Akella}, \bibinfo{person}{Srinivasan
+  Seshan}, {and} \bibinfo{person}{Anees Shaikh}.}
+  \bibinfo{year}{[n.d.]}\natexlab{a}.
+\newblock \showarticletitle{An empirical evaluation of wide-area {I}nternet
+  bottlenecks}. In \bibinfo{booktitle}{\emph{SIGCOMM 2003}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Akella, Seshan, and Shaikh}{Akella
+  et~al\mbox{.}}{[n.d.]b}]%
+        {akella-multihoming-nsdi-04}
+\bibfield{author}{\bibinfo{person}{Aditya Akella}, \bibinfo{person}{Srinivasan
+  Seshan}, {and} \bibinfo{person}{Anees Shaikh}.}
+  \bibinfo{year}{[n.d.]}\natexlab{b}.
+\newblock \showarticletitle{{Multihoming Performance Benefits: An Experimental
+  Evaluation of Practical Enterprise Strategies}}. In
+  \bibinfo{booktitle}{\emph{NSDI 2004}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Apple}{Apple}{2020}]%
+        {apple-mptcp}
+\bibfield{author}{\bibinfo{person}{Apple}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{{Improving Network Reliability Using Multipath TCP}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://developer.apple.com/documentation/foundation/urlsessionconfiguration/improving_network_reliability_using_multipath_tcp}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Arnold, G{\"u}rmeri{\c{c}}liler, Essig, Gupta,
+  Calder, Giotsas, and Katz-Bassett}{Arnold et~al\mbox{.}}{[n.d.]}]%
+        {todd-cloud-latency}
+\bibfield{author}{\bibinfo{person}{Todd Arnold}, \bibinfo{person}{Ege
+  G{\"u}rmeri{\c{c}}liler}, \bibinfo{person}{Georgia Essig},
+  \bibinfo{person}{Arpit Gupta}, \bibinfo{person}{Matt Calder},
+  \bibinfo{person}{Vasileios Giotsas}, {and} \bibinfo{person}{Ethan
+  Katz-Bassett}.} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{(How Much) Does a Private WAN Improve Cloud
+  Performance}?\killpunct}. In \bibinfo{booktitle}{\emph{INFOCOM 2020}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Birge-Lee, Apostolaki, and Rexford}{Birge-Lee
+  et~al\mbox{.}}{[n.d.]}]%
+        {tango}
+\bibfield{author}{\bibinfo{person}{Henry Birge-Lee}, \bibinfo{person}{Maria
+  Apostolaki}, {and} \bibinfo{person}{Jennifer Rexford}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{It Takes Two to Tango: Cooperative Edge-to-Edge
+  Routing}}. In \bibinfo{booktitle}{\emph{HotNets 2022}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{CAIDA}{CAIDA}{2023}]%
+        {routeviews}
+\bibfield{author}{\bibinfo{person}{CAIDA}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \bibinfo{title}{{BGP Stream}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://bgpstream.caida.org/data}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Calder, Flavel, Katz-Bassett, Mahajan, and
+  Padhye}{Calder et~al\mbox{.}}{[n.d.]}]%
+        {calder2015analyzing}
+\bibfield{author}{\bibinfo{person}{Matt Calder}, \bibinfo{person}{Ashley
+  Flavel}, \bibinfo{person}{Ethan Katz-Bassett}, \bibinfo{person}{Ratul
+  Mahajan}, {and} \bibinfo{person}{Jitendra Padhye}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{Analyzing the Performance of an Anycast CDN}}. In
+  \bibinfo{booktitle}{\emph{IMC 2015}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Cisco}{Cisco}{2023}]%
+        {cisco-sdwan}
+\bibfield{author}{\bibinfo{person}{Cisco}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \bibinfo{title}{{Cisco SD-WAN}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Cloudflare}{Cloudflare}{2022}]%
+        {cloudflare_argo}
+\bibfield{author}{\bibinfo{person}{Cloudflare}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{title}{{Argo Smart Routing}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://cloudflare.com/products/argo-smart-routing/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Cuervo}{Cuervo}{2017}]%
+        {simulator-sickness-getmobile17}
+\bibfield{author}{\bibinfo{person}{Eduardo Cuervo}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Beyond reality: Head-mounted displays for mobile
+  systems researchers}.
+\newblock \bibinfo{journal}{\emph{GetMobile: Mobile Computing and
+  Communications}} \bibinfo{volume}{21}, \bibinfo{number}{2}
+  (\bibinfo{year}{2017}), \bibinfo{pages}{9--15}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{De~Coninck and Bonaventure}{De~Coninck and
+  Bonaventure}{[n.d.]}]%
+        {mpquic-conext}
+\bibfield{author}{\bibinfo{person}{Quentin De~Coninck} {and}
+  \bibinfo{person}{Olivier Bonaventure}.} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{Multipath QUIC: Design and Evaluation}}. In
+  \bibinfo{booktitle}{\emph{CoNEXT 2017}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Dhamdhere, Clark, Gamero-Garrido, Luckie, Mok,
+  Akiwate, Gogia, Bajpai, Snoeren, and Claffy}{Dhamdhere et~al\mbox{.}}{2018}]%
+        {dhamdhere2018inferring}
+\bibfield{author}{\bibinfo{person}{Amogh Dhamdhere}, \bibinfo{person}{David~D
+  Clark}, \bibinfo{person}{Alexander Gamero-Garrido}, \bibinfo{person}{Matthew
+  Luckie}, \bibinfo{person}{Ricky~KP Mok}, \bibinfo{person}{Gautam Akiwate},
+  \bibinfo{person}{Kabir Gogia}, \bibinfo{person}{Vaibhav Bajpai},
+  \bibinfo{person}{Alex~C Snoeren}, {and} \bibinfo{person}{Kc Claffy}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{{Inferring Persistent Interdomain Congestion}}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 2018 Conference of the ACM
+  Special Interest Group on Data Communication}}. \bibinfo{pages}{1--15}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Flach, Dukkipati, Terzis, Raghavan, Cardwell,
+  Cheng, Jain, Hao, Katz-Bassett, and Govindan}{Flach et~al\mbox{.}}{[n.d.]}]%
+        {virtue-gentle-aggression}
+\bibfield{author}{\bibinfo{person}{Tobias Flach}, \bibinfo{person}{Nandita
+  Dukkipati}, \bibinfo{person}{Andreas Terzis}, \bibinfo{person}{Barath
+  Raghavan}, \bibinfo{person}{Neal Cardwell}, \bibinfo{person}{Yuchung Cheng},
+  \bibinfo{person}{Ankur Jain}, \bibinfo{person}{Shuai Hao},
+  \bibinfo{person}{Ethan Katz-Bassett}, {and} \bibinfo{person}{Ramesh
+  Govindan}.} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{Reducing Web Latency: The Virtue of Gentle
+  Aggression}}. In \bibinfo{booktitle}{\emph{SIGCOMM 2013}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Frommgen, Erbsh{\"a}u{\ss}er, Buchmann,
+  Zimmermann, and Wehrle}{Frommgen et~al\mbox{.}}{[n.d.]}]%
+        {remp}
+\bibfield{author}{\bibinfo{person}{Alexander Frommgen}, \bibinfo{person}{Tobias
+  Erbsh{\"a}u{\ss}er}, \bibinfo{person}{Alejandro Buchmann},
+  \bibinfo{person}{Torsten Zimmermann}, {and} \bibinfo{person}{Klaus Wehrle}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{ReMP TCP: Low latency multipath TCP}}. In
+  \bibinfo{booktitle}{\emph{ICC 2016}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gao, Liu, Jiang, Sinclair, Sentosa, Godfrey,
+  and Adve}{Gao et~al\mbox{.}}{2025}]%
+        {gao25xrgo}
+\bibfield{author}{\bibinfo{person}{Steven Gao}, \bibinfo{person}{Jeffrey Liu},
+  \bibinfo{person}{Qinjun Jiang}, \bibinfo{person}{Finn Sinclair},
+  \bibinfo{person}{William Sentosa}, \bibinfo{person}{P.~Brighten Godfrey},
+  {and} \bibinfo{person}{Sarita Adve}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{XRgo: Design and Evaluation of Rendering Offload
+  for Low-Power Extended Reality Devices}. In \bibinfo{booktitle}{\emph{16th
+  ACM Multimedia Systems Conference}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Huston}{Huston}{2014}]%
+        {apnic_pop_est}
+\bibfield{author}{\bibinfo{person}{Geoff Huston}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \bibinfo{title}{{How Big is that Network}?\killpunct}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{labs.apnic.net/?p=526}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{IETF}{IETF}{1997}]%
+        {intserv-rfc}
+\bibfield{author}{\bibinfo{person}{IETF}.} \bibinfo{year}{1997}\natexlab{}.
+\newblock \bibinfo{title}{{General Characterization Parameters for Integrated
+  Service Network Elements}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://datatracker.ietf.org/doc/html/rfc2215}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{IETF}{IETF}{2000}]%
+        {diffserv-rfc}
+\bibfield{author}{\bibinfo{person}{IETF}.} \bibinfo{year}{2000}\natexlab{}.
+\newblock \bibinfo{title}{{A Framework for Integrated Services Operation over
+  Diffserv Networks}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://datatracker.ietf.org/doc/html/rfc2998}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{{IETF}}{{IETF}}{2017}]%
+        {panrg}
+\bibfield{author}{\bibinfo{person}{{IETF}}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{title}{{Path Aware Network RG}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://datatracker.ietf.org/rg/panrg/about/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{IETF}{IETF}{2020}]%
+        {mpquic-rfc}
+\bibfield{author}{\bibinfo{person}{IETF}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{{Multipath Extension for QUIC}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://datatracker.ietf.org/doc/html/draft-liu-multipath-quic-02}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{IETF}{IETF}{2022}]%
+        {quic-unreliable-datagrams-rfc}
+\bibfield{author}{\bibinfo{person}{IETF}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{title}{{An Unreliable Datagram Extension to QUIC}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://datatracker.ietf.org/doc/rfc9221/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{IETF}{IETF}{2023}]%
+        {l4s-rfc}
+\bibfield{author}{\bibinfo{person}{IETF}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \bibinfo{title}{{Low Latency, Low Loss, and Scalable Throughput (L4S)
+  Internet Service: Architecture}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://datatracker.ietf.org/doc/rfc9330/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{IETF}{IETF}{2025}]%
+        {quic-fec}
+\bibfield{author}{\bibinfo{person}{IETF}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{title}{{FEC Extension for QUIC}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://datatracker.ietf.org/doc/draft-zheng-quic-fec-extension/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{INAP}{INAP}{2022}]%
+        {inap}
+\bibfield{author}{\bibinfo{person}{INAP}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{title}{{INAP Network Connectivity}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://inap.com/network/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Internap}{Internap}{2016}]%
+        {internap}
+\bibfield{author}{\bibinfo{person}{Internap}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \bibinfo{title}{Internap Increases Service Velocity and Scalability
+  While Lowering Cost with Juniper at the Edge}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://juniper.net/content/dam/www/assets/case-studies/us/en/internap-increases-service-velocity-and-scalability-while-lowering-cost-with-juniper-at-the-edge.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Kataria, LNU, Bothra, Gandhi, Bhattacherjee,
+  Padmanabhan, Atov, Ramakrishnan, Chaturmohta, Kotipalli,
+  et~al\mbox{.}}{Kataria et~al\mbox{.}}{[n.d.]}]%
+        {saving-private-wan}
+\bibfield{author}{\bibinfo{person}{Bhaskar Kataria}, \bibinfo{person}{Palak
+  LNU}, \bibinfo{person}{Rahul Bothra}, \bibinfo{person}{Rohan Gandhi},
+  \bibinfo{person}{Debopam Bhattacherjee}, \bibinfo{person}{Venkata~N
+  Padmanabhan}, \bibinfo{person}{Irena Atov}, \bibinfo{person}{Sriraam
+  Ramakrishnan}, \bibinfo{person}{Somesh Chaturmohta}, \bibinfo{person}{Chakri
+  Kotipalli}, {et~al\mbox{.}}} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{Saving Private WAN: Using Internet Paths to
+  Offload WAN Traffic in Conferencing Services}}. In
+  \bibinfo{booktitle}{\emph{CoNEXT 2024}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Koch, Katz-Bassett, Heidemann, Calder, Ardi,
+  and Li}{Koch et~al\mbox{.}}{[n.d.]a}]%
+        {tom-anycast}
+\bibfield{author}{\bibinfo{person}{Thomas Koch}, \bibinfo{person}{Ethan
+  Katz-Bassett}, \bibinfo{person}{John Heidemann}, \bibinfo{person}{Matt
+  Calder}, \bibinfo{person}{Calvin Ardi}, {and} \bibinfo{person}{Ke Li}.}
+  \bibinfo{year}{[n.d.]}\natexlab{a}.
+\newblock \showarticletitle{{Anycast in Context: A Tale of Two Systems}}. In
+  \bibinfo{booktitle}{\emph{SIGCOMM 2021}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Koch, Yu, Katz-Bassett, Beckett, and
+  Agarwal}{Koch et~al\mbox{.}}{[n.d.]b}]%
+        {painter}
+\bibfield{author}{\bibinfo{person}{Thomas Koch}, \bibinfo{person}{Shuyue Yu},
+  \bibinfo{person}{Ethan Katz-Bassett}, \bibinfo{person}{Ryan Beckett}, {and}
+  \bibinfo{person}{Sharad Agarwal}.} \bibinfo{year}{[n.d.]}\natexlab{b}.
+\newblock \showarticletitle{{PAINTER: Ingress Traffic Engineering and Routing
+  for Enterprise Cloud Networks}}. In \bibinfo{booktitle}{\emph{SIGCOMM 2023}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kr{\"a}henb{\"u}hl, Tabaeiaghdaei, Gloor,
+  Kwon, Perrig, Hausheer, and Roos}{Kr{\"a}henb{\"u}hl et~al\mbox{.}}{[n.d.]}]%
+        {scion_deployment_conext}
+\bibfield{author}{\bibinfo{person}{Cyrill Kr{\"a}henb{\"u}hl},
+  \bibinfo{person}{Seyedali Tabaeiaghdaei}, \bibinfo{person}{Christelle Gloor},
+  \bibinfo{person}{Jonghoon Kwon}, \bibinfo{person}{Adrian Perrig},
+  \bibinfo{person}{David Hausheer}, {and} \bibinfo{person}{Dominik Roos}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{Deployment and Scalability of an Inter-Domain
+  Multi-Path Routing Infrastructure}}. In \bibinfo{booktitle}{\emph{CoNEXT
+  2021}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Krishnan, Madhyastha, Srinivasan, Jain,
+  Krishnamurthy, Anderson, and Gao}{Krishnan et~al\mbox{.}}{[n.d.]}]%
+        {whyhigh}
+\bibfield{author}{\bibinfo{person}{Rupa Krishnan}, \bibinfo{person}{Harsha~V.
+  Madhyastha}, \bibinfo{person}{Sridhar Srinivasan}, \bibinfo{person}{Sushant
+  Jain}, \bibinfo{person}{Arvind Krishnamurthy}, \bibinfo{person}{Thomas
+  Anderson}, {and} \bibinfo{person}{Jie Gao}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{Moving Beyond End-to-End Path Information to
+  Optimize CDN Performance}}. In \bibinfo{booktitle}{\emph{IMC 2009}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Landa, Saino, Buytenhek, and Ara{\'u}jo}{Landa
+  et~al\mbox{.}}{[n.d.]}]%
+        {fastly-egress}
+\bibfield{author}{\bibinfo{person}{Raul Landa}, \bibinfo{person}{Lorenzo
+  Saino}, \bibinfo{person}{Lennert Buytenhek}, {and}
+  \bibinfo{person}{Jo{\~a}o~Taveira Ara{\'u}jo}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{Staying Alive: Connection Path Reselection at the
+  Edge}}. In \bibinfo{booktitle}{\emph{NSDI 2021}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Li, Li, Lu, Xiao, Li, Chen, Yang, Zong, Chen,
+  Wu, et~al\mbox{.}}{Li et~al\mbox{.}}{[n.d.]}]%
+        {livenet}
+\bibfield{author}{\bibinfo{person}{Jinyang Li}, \bibinfo{person}{Zhenyu Li},
+  \bibinfo{person}{Ri Lu}, \bibinfo{person}{Kai Xiao}, \bibinfo{person}{Songlin
+  Li}, \bibinfo{person}{Jufeng Chen}, \bibinfo{person}{Jingyu Yang},
+  \bibinfo{person}{Chunli Zong}, \bibinfo{person}{Aiyun Chen},
+  \bibinfo{person}{Qinghua Wu}, {et~al\mbox{.}}}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{Livenet: A Low-Latency Video Transport Network for
+  Large-scale Live Streaming}}. In \bibinfo{booktitle}{\emph{SIGCOMM 2022}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Maghsoudnia, Vlad, Gong, Dumitriu, and
+  Hassanieh}{Maghsoudnia et~al\mbox{.}}{[n.d.]}]%
+        {urllc-close-reality-distant-goal}
+\bibfield{author}{\bibinfo{person}{Arman Maghsoudnia}, \bibinfo{person}{Eduard
+  Vlad}, \bibinfo{person}{Aoyu Gong}, \bibinfo{person}{Dan~Mihai Dumitriu},
+  {and} \bibinfo{person}{Haitham Hassanieh}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{Ultra-Reliable Low-Latency in 5G: A Close Reality
+  or a Distant Goal?}. In \bibinfo{booktitle}{\emph{HOTNETS 2024}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Maxmind}{Maxmind}{2022}]%
+        {maxmind}
+\bibfield{author}{\bibinfo{person}{Maxmind}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{title}{Geo{IP}2 {D}atabases}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://maxmind.com/en/geoip2-databases}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Mohan, Corneo, Zavodovski, Bayhan, Wong, and
+  Kangasharju}{Mohan et~al\mbox{.}}{[n.d.]}]%
+        {latency-shears}
+\bibfield{author}{\bibinfo{person}{Nitinder Mohan}, \bibinfo{person}{Lorenzo
+  Corneo}, \bibinfo{person}{Aleksandr Zavodovski}, \bibinfo{person}{Suzan
+  Bayhan}, \bibinfo{person}{Walter Wong}, {and} \bibinfo{person}{Jussi
+  Kangasharju}.} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{Pruning Edge Research With Latency Shears}}. In
+  \bibinfo{booktitle}{\emph{HotNets 2020}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Salamatian, Ardi, Giotsas, Calder,
+  Katz-Bassett, and Arnold}{Salamatian et~al\mbox{.}}{2024}]%
+        {loqman-apnic}
+\bibfield{author}{\bibinfo{person}{Loqman Salamatian}, \bibinfo{person}{Calvin
+  Ardi}, \bibinfo{person}{Vasileios Giotsas}, \bibinfo{person}{Matt Calder},
+  \bibinfo{person}{Ethan Katz-Bassett}, {and} \bibinfo{person}{Todd Arnold}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{What's in the Dataset? Unboxing the APNIC per AS
+  User Population Dataset}. In \bibinfo{booktitle}{\emph{Proceedings of the
+  2024 ACM on Internet Measurement Conference}} (Madrid, Spain)
+  \emph{(\bibinfo{series}{IMC '24})}. \bibinfo{publisher}{Association for
+  Computing Machinery}, \bibinfo{pages}{165–182}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Schlinker, Arnold, Cunha, and
+  Katz-Bassett}{Schlinker et~al\mbox{.}}{[n.d.]a}]%
+        {schlinker19peering}
+\bibfield{author}{\bibinfo{person}{Brandon Schlinker}, \bibinfo{person}{Todd
+  Arnold}, \bibinfo{person}{Italo Cunha}, {and} \bibinfo{person}{Ethan
+  Katz-Bassett}.} \bibinfo{year}{[n.d.]}\natexlab{a}.
+\newblock \showarticletitle{{PEERING: Virtualizing BGP at the Edge for
+  Research}}. In \bibinfo{booktitle}{\emph{CoNEXT 2019}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Schlinker, Cunha, Chiu, Sundaresan, and
+  Katz-Bassett}{Schlinker et~al\mbox{.}}{[n.d.]b}]%
+        {brandon-facebook-imc}
+\bibfield{author}{\bibinfo{person}{Brandon Schlinker}, \bibinfo{person}{Italo
+  Cunha}, \bibinfo{person}{Yi-Ching Chiu}, \bibinfo{person}{Srikanth
+  Sundaresan}, {and} \bibinfo{person}{Ethan Katz-Bassett}.}
+  \bibinfo{year}{[n.d.]}\natexlab{b}.
+\newblock \showarticletitle{{Internet Performance from Facebook's Edge}}. In
+  \bibinfo{booktitle}{\emph{IMC 2019}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Schlinker, Kim, Cui, Katz-Bassett, Madhyastha,
+  Cunha, Quinn, Hasan, Lapukhov, and Zeng}{Schlinker et~al\mbox{.}}{[n.d.]c}]%
+        {edge-fabric}
+\bibfield{author}{\bibinfo{person}{Brandon Schlinker},
+  \bibinfo{person}{Hyojeong Kim}, \bibinfo{person}{Timothy Cui},
+  \bibinfo{person}{Ethan Katz-Bassett}, \bibinfo{person}{Harsha~V. Madhyastha},
+  \bibinfo{person}{Italo Cunha}, \bibinfo{person}{James Quinn},
+  \bibinfo{person}{Saif Hasan}, \bibinfo{person}{Petr Lapukhov}, {and}
+  \bibinfo{person}{Hongyi Zeng}.} \bibinfo{year}{[n.d.]}\natexlab{c}.
+\newblock \showarticletitle{{Engineering Egress with Edge Fabric: Steering
+  Oceans of Content to the World}}. In \bibinfo{booktitle}{\emph{SIGCOMM
+  2017}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sentosa, Chandrasekaran, Godfrey, Hassanieh,
+  and Maggs}{Sentosa et~al\mbox{.}}{[n.d.]}]%
+        {dchannel}
+\bibfield{author}{\bibinfo{person}{William Sentosa},
+  \bibinfo{person}{Balakrishnan Chandrasekaran}, \bibinfo{person}{P~Brighten
+  Godfrey}, \bibinfo{person}{Haitham Hassanieh}, {and} \bibinfo{person}{Bruce
+  Maggs}.} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{DCHANNEL: Accelerating Mobile Applications With
+  Parallel High-bandwidth and Low-latency Channels}}. In
+  \bibinfo{booktitle}{\emph{NSDI 2023}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Silverpeak}{Silverpeak}{[n.d.]}]%
+        {silverpeak-loss-info}
+\bibfield{author}{\bibinfo{person}{Silverpeak}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \bibinfo{title}{Taking Forward Error Correction (FEC) to the Next
+  Level}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://silver-peak.com/sites/default/files/infoctr/silver-peak_wp_fec.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Singh, Agarwal, Calder, and Bahl}{Singh
+  et~al\mbox{.}}{[n.d.]}]%
+        {cascara}
+\bibfield{author}{\bibinfo{person}{Rachee Singh}, \bibinfo{person}{Sharad
+  Agarwal}, \bibinfo{person}{Matt Calder}, {and} \bibinfo{person}{Paramvir
+  Bahl}.} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{Cost-Effective Cloud Edge Traffic Engineering with
+  Cascara}}. In \bibinfo{booktitle}{\emph{NSDI 2021}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Stauffert, Niebling, and Latoschik}{Stauffert
+  et~al\mbox{.}}{2018}]%
+        {vr-jitter-test}
+\bibfield{author}{\bibinfo{person}{Jan-Philipp Stauffert},
+  \bibinfo{person}{Florian Niebling}, {and} \bibinfo{person}{Marc~Erich
+  Latoschik}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{{Effects of Latency Jitter on Simulator Sickness in
+  a Search Task}}. In \bibinfo{booktitle}{\emph{2018 IEEE conference on virtual
+  reality and 3D user interfaces (VR)}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Subspace}{Subspace}{2022}]%
+        {subspace}
+\bibfield{author}{\bibinfo{person}{Subspace}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{title}{{Optimize Your Network on Subspace}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://subspace.com/solutions/reduce-internet-latency}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{{USC/ISI ANT Project}}{{USC/ISI ANT
+  Project}}{2021}]%
+        {ant_ip_hitlist}
+\bibfield{author}{\bibinfo{person}{{USC/ISI ANT Project}}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \bibinfo{title}{{IP Hitlist Datasets}}.
+\newblock
+  \bibinfo{howpublished}{\url{https://ant.isi.edu/datasets/ip_hitlists/format.html}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Vu and Wolff}{Vu and Wolff}{2021}]%
+        {vu2021supporting}
+\bibfield{author}{\bibinfo{person}{Vu~Anh Vu} {and} \bibinfo{person}{Jan
+  Wolff}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Supporting delay-sensitive applications with
+  multipath quic and forward erasure correction}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th ACM Symposium on QoS and
+  Security for Wireless and Mobile Networks}}. \bibinfo{pages}{95--103}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Vulimiri, Godfrey, Mittal, Sherry, Ratnasamy,
+  and Shenker}{Vulimiri et~al\mbox{.}}{2013}]%
+        {brighten-conext2013}
+\bibfield{author}{\bibinfo{person}{Ashish Vulimiri},
+  \bibinfo{person}{Philip~Brighten Godfrey}, \bibinfo{person}{Radhika Mittal},
+  \bibinfo{person}{Justine Sherry}, \bibinfo{person}{Sylvia Ratnasamy}, {and}
+  \bibinfo{person}{Scott Shenker}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Low latency via redundancy}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the ninth ACM conference on Emerging
+  networking experiments and technologies}}. \bibinfo{pages}{283--294}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{VULTR}{VULTR}{2023}]%
+        {vultr}
+\bibfield{author}{\bibinfo{person}{VULTR}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \bibinfo{title}{{VULTR Cloud}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://vultr.com/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Wang, Yu, Zhang, Tao, Yu, and Shi}{Wang
+  et~al\mbox{.}}{[n.d.]}]%
+        {twinstar}
+\bibfield{author}{\bibinfo{person}{Haiping Wang}, \bibinfo{person}{Zhenhua Yu},
+  \bibinfo{person}{Ruixiao Zhang}, \bibinfo{person}{Siping Tao},
+  \bibinfo{person}{Hebin Yu}, {and} \bibinfo{person}{Shu Shi}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{Twinstar: A practical multi-path transmission
+  framework for ultra-low latency video delivery}. In
+  \bibinfo{booktitle}{\emph{MM 2023}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Xu and Rexford}{Xu and Rexford}{[n.d.]}]%
+        {miro}
+\bibfield{author}{\bibinfo{person}{Wen Xu} {and} \bibinfo{person}{Jennifer
+  Rexford}.} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{MIRO: Multi-Path Interdomain Routing}}. In
+  \bibinfo{booktitle}{\emph{SIGCOMM 2006}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yap, Motiwala, Rahe, Padgett, Holliman,
+  Baldus, Hines, Kim, Narayanan, Jain, et~al\mbox{.}}{Yap
+  et~al\mbox{.}}{[n.d.]}]%
+        {espresso}
+\bibfield{author}{\bibinfo{person}{Kok-Kiong Yap}, \bibinfo{person}{Murtaza
+  Motiwala}, \bibinfo{person}{Jeremy Rahe}, \bibinfo{person}{Steve Padgett},
+  \bibinfo{person}{Matthew Holliman}, \bibinfo{person}{Gary Baldus},
+  \bibinfo{person}{Marcus Hines}, \bibinfo{person}{Taeeun Kim},
+  \bibinfo{person}{Ashok Narayanan}, \bibinfo{person}{Ankur Jain},
+  {et~al\mbox{.}}} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{Taking the Edge off with Espresso: Scale,
+  Reliability and Programmability for Global Internet Peering}}. In
+  \bibinfo{booktitle}{\emph{SIGCOMM 2017}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhang, Sen, Zhang, April, Chandrasekaran,
+  Choffnes, Maggs, Shen, Sitaraman, and Yang}{Zhang et~al\mbox{.}}{[n.d.]a}]%
+        {anyopt}
+\bibfield{author}{\bibinfo{person}{Xiao Zhang}, \bibinfo{person}{Tanmoy Sen},
+  \bibinfo{person}{Zheyuan Zhang}, \bibinfo{person}{Tim April},
+  \bibinfo{person}{Balakrishnan Chandrasekaran}, \bibinfo{person}{David
+  Choffnes}, \bibinfo{person}{Bruce~M. Maggs}, \bibinfo{person}{Haiying Shen},
+  \bibinfo{person}{Ramesh~K. Sitaraman}, {and} \bibinfo{person}{Xiaowei Yang}.}
+  \bibinfo{year}{[n.d.]}\natexlab{a}.
+\newblock \showarticletitle{{AnyOpt: Predicting and Optimizing IP Anycast
+  Performance}}. In \bibinfo{booktitle}{\emph{SIGCOMM 2021}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhang, Zhang, Greenberg, Hu, Mahajan, and
+  Christian}{Zhang et~al\mbox{.}}{[n.d.]b}]%
+        {entact}
+\bibfield{author}{\bibinfo{person}{Zheng Zhang}, \bibinfo{person}{Ming Zhang},
+  \bibinfo{person}{Albert~G. Greenberg}, \bibinfo{person}{Y.~Charlie Hu},
+  \bibinfo{person}{Ratul Mahajan}, {and} \bibinfo{person}{Blaine Christian}.}
+  \bibinfo{year}{[n.d.]}\natexlab{b}.
+\newblock \showarticletitle{{Optimizing Cost and Performance in Online Service
+  Provider Networks}}. In \bibinfo{booktitle}{\emph{NSDI 2010}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zheng, Ma, Liu, Yang, Li, Zhang, Zhang, Shi,
+  Chen, Li, et~al\mbox{.}}{Zheng et~al\mbox{.}}{[n.d.]}]%
+        {alibaba-mpquic}
+\bibfield{author}{\bibinfo{person}{Zhilong Zheng}, \bibinfo{person}{Yunfei Ma},
+  \bibinfo{person}{Yanmei Liu}, \bibinfo{person}{Furong Yang},
+  \bibinfo{person}{Zhenyu Li}, \bibinfo{person}{Yuanbo Zhang},
+  \bibinfo{person}{Jiuhai Zhang}, \bibinfo{person}{Wei Shi},
+  \bibinfo{person}{Wentao Chen}, \bibinfo{person}{Ding Li}, {et~al\mbox{.}}}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{Xlink: QoE-Driven Multi-Path QUIC Transport in
+  Large-Scale Video Services}}. In \bibinfo{booktitle}{\emph{SIGCOMM 2021}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhou, Wang, Wang, Wen, Han, Wang, Wu, Chen,
+  Jiang, Wang, et~al\mbox{.}}{Zhou et~al\mbox{.}}{[n.d.]}]%
+        {augur}
+\bibfield{author}{\bibinfo{person}{Yuhan Zhou}, \bibinfo{person}{Tingfeng
+  Wang}, \bibinfo{person}{Liying Wang}, \bibinfo{person}{Nian Wen},
+  \bibinfo{person}{Rui Han}, \bibinfo{person}{Jing Wang},
+  \bibinfo{person}{Chenglei Wu}, \bibinfo{person}{Jiafeng Chen},
+  \bibinfo{person}{Longwei Jiang}, \bibinfo{person}{Shibo Wang},
+  {et~al\mbox{.}}} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{{AUGUR} Practical Mobile Multipath Transport
+  Service for Low Tail Latency in Real-Time Streaming}. In
+  \bibinfo{booktitle}{\emph{NSDI 2024}}.
+\newblock
+
+
+\end{thebibliography}
